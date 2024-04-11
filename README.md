@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++,php,JS
 - 🌱 I’m currently learning pyton
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me admin@byleao.pt
+- 📫 How to reach me Andre@byleao.pt
 
 - www.byleao.pt
 
